@@ -133,7 +133,6 @@ header {
 
 /*contact start*/
 .contact {
-	background-color: #010101;
 	padding: 90px 0 50px;
 }
 
@@ -147,13 +146,13 @@ header {
 
 /*contact form start*/
 .custom_input {
-	padding: 25px 10px;
+	padding: 20px 10px;
 }
 .btn_custom {
     background-color: #fcdb00;
     color: #010101;
     font-size: 16px;
-    padding: 12px 20px;
+    padding: 6px 10px;
     font-weight: bold;
 }
 
