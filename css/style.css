@@ -134,7 +134,7 @@ header {
 /*contact start*/
 .contact {
 	background-color: #010101;
-	padding: 90px 0;
+	padding: 90px 0 50px;
 }
 
 .contact_title h1 {
@@ -152,8 +152,9 @@ header {
 .btn_custom {
     background-color: #fcdb00;
     color: #010101;
-    font-size: 18px;
+    font-size: 16px;
     padding: 12px 20px;
+    font-weight: bold;
 }
 
 .social_icons {
@@ -172,9 +173,14 @@ header {
 
 footer {
 	background-color: #010101;
-	padding: 90px 0;
+	padding: 50px 0 60px;
 }
 
 .footer_content {
 	
+}
+
+.fsize p {
+	font-size: 16px;
+	margin-bottom: 2px;
 }
