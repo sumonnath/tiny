@@ -1,0 +1,180 @@
+/*font-family: 'PT Sans', sans-serif;*/
+
+@font-face {
+	src: url(../fonts/HelveticaNeueBold.ttf);
+	font-family: HelveticaNeueBold;
+}
+
+body {
+	font-family: 'PT Sans', sans-serif;
+	color: #898989;
+}
+
+header {
+	background-color: #fcdb00;
+	padding: 30px 0;
+}
+
+.navbar {
+	padding-left: 0 !important;
+	padding-right: 0 !important;
+}
+.custom_nav {}
+.custom_nav ul {}
+.custom_nav ul li {
+	
+}
+.custom_nav ul li a {
+	font-family: 'PT Sans', sans-serif;
+	font-size: 22px;
+	font-weight: bold;
+	color: #010101 !important;
+	padding: 0 49px !important;
+}
+.custom_nav ul li a:hover {}
+
+/*slider start*/
+.slider {
+	background-color: #fcdb00;
+	padding: 0 0 100px;
+}
+
+.slider_text {
+	margin-top: 60px;
+}
+.slider_text h1 {
+	font-size: 32px;
+	font-weight: bold;
+	color: #010101;
+	margin-bottom: 20px;
+}
+.slider_text h3 {
+	font-size: 20px;
+	font-weight: 400;
+	margin-bottom: 20px;
+	color: #313841;
+}
+.slider_text p {
+	font-size: 15px !important;
+	color: #555555;
+}
+.slider_img {
+	
+}
+
+.slider_img img {
+   
+}
+
+.slider_icons {
+
+}
+
+.slider_icons ul li i {
+	padding-right: 25px;
+	font-size: 42px;
+	color: #010101;
+}
+
+.carousel-indicators {
+    bottom: -60px;
+}
+
+.carousel-indicators li {
+    width: 15px;
+    height: 15px;
+    border-radius: 50px;
+}
+/*slider end*/
+
+
+/*feature start*/
+.feature {
+	padding: 100px 0;
+}
+
+.feature_title {
+    margin-bottom: 80px;
+}
+
+.feature_title h1 {
+	font-size: 32px;
+	font-weight: 700;
+	color: #010101;
+}
+.feature_title p {
+	font-size: 20px;
+	font-weight: 400;
+	color: #313841;
+}
+
+/*single feature start*/
+.single_icon {}
+.single_icon i {
+	font-size: 50px;
+	color: #010101;
+}
+
+.single_content h3 {
+	font-size: 22px;
+	font-weight: 700;
+	color: #010101;
+}
+
+.single_content p {
+	font-size: 16px;
+	font-weight: 400;
+	color: #313841;
+}
+
+/*single feature end*/
+
+/*feature end*/
+
+/*contact start*/
+.contact {
+	background-color: #010101;
+	padding: 90px 0;
+}
+
+.contact_title h1 {
+	color: #fcdb00;
+}
+
+.contact_title p {
+	color: #898989;
+}
+
+/*contact form start*/
+.custom_input {
+	padding: 25px 10px;
+}
+.btn_custom {
+    background-color: #fcdb00;
+    color: #010101;
+    font-size: 18px;
+    padding: 12px 20px;
+}
+
+.social_icons {
+	margin-top: 60px;
+}
+
+.social_icons ul li i {
+	font-size: 42px;
+	padding-right: 20px;
+	color: #fcdb00;
+}
+/*contact form end*/
+
+
+/*contact end*/
+
+footer {
+	background-color: #010101;
+	padding: 90px 0;
+}
+
+.footer_content {
+	
+}
