@@ -193,6 +193,11 @@ footer {
 .footer_content p a {
 	text-decoration: none;
 	color: #898989 !important;
+	transition: 0.3s;
+}
+
+.footer_content p a:hover {
+	color: #fff !important;
 }
 
 .fsize p {
