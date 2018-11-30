@@ -79,6 +79,7 @@
 	.custom_input {
 	    padding: 18px 10px;
 	    border: none;
+	    margin-left: 8px;
 	}
 
 	.btn_custom {
