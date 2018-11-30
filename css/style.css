@@ -157,6 +157,10 @@ header {
     font-weight: bold;
 }
 
+.btn_custom:hover {
+	background-color: #c1a600;
+}
+
 .social_icons {
 	margin-top: 60px;
 }
@@ -166,6 +170,11 @@ header {
 	padding-right: 20px;
 	color: #fcdb00;
 }
+
+.social_icons ul li i:hover {
+	color: #c1a600;
+}
+
 /*contact form end*/
 
 
