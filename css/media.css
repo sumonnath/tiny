@@ -84,6 +84,10 @@
 	    font-size: 16px;
 	    padding: 6px 10px;
 	}
+
+	.social_icons {
+	    margin-top: 40px;
+	}
 	/*footer start*/
 	footer {
 		padding: 15px 0 20px;
