@@ -147,6 +147,7 @@ header {
 /*contact form start*/
 .custom_input {
 	padding: 25px 10px;
+	border: none;
 }
 .btn_custom {
     background-color: #fcdb00;

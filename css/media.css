@@ -78,6 +78,7 @@
 
 	.custom_input {
 	    padding: 18px 10px;
+	    border: none;
 	}
 
 	.btn_custom {
@@ -171,6 +172,7 @@
 
 	.custom_input {
 	    padding: 18px 10px !important;
+	    border: none;
 	}
 
 	.btn_custom {
@@ -234,6 +236,7 @@
 
 	.custom_input {
 	    padding: 20px 10px;
+	    border: none;
 	}
 
 	.btn_custom {
