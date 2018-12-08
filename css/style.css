@@ -29,8 +29,11 @@ header {
 	font-weight: bold;
 	color: #010101 !important;
 	padding: 0 49px !important;
+	transition: .3s;
 }
-.custom_nav ul li a:hover {}
+.custom_nav ul li a:hover {
+	color: #fff !important;
+}
 
 /*slider start*/
 .slider {
