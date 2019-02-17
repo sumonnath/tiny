@@ -32,7 +32,7 @@ header {
 	transition: .3s;
 }
 .custom_nav ul li a:hover {
-	color: #555555 !important;
+	color: #fff !important;
 }
 
 /*slider start*/
